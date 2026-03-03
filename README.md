@@ -3,7 +3,7 @@
 ### Below are tables I created listing my projects separated by programming languages used. I have included project descriptions and any skills used while working on these projects. 
 
 ### Table of Content
-[SQL]()
+[SQL](#sql)
 
 ***
 
