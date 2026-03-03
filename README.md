@@ -4,7 +4,7 @@
 
 ### Table of Content
 1. [SQL](#sql)
-2. [Python]()
+2. [Python](#python)
 
 ***
 
