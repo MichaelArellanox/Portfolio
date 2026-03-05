@@ -1,6 +1,6 @@
 # Michael Arellano Portfolio 📑
 
-### Below are tables I created listing my projects separated by programming languages used. I have included project descriptions and any skills used while working on these projects. 
+### Below are tables I created listing my projects separated by tools used. I have included descriptions and any skills used while working on these projects. 
 
 ### Table of Content
 1. [SQL](#sql)
