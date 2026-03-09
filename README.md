@@ -40,7 +40,7 @@
 
 | Project | Skills Used | Description | 
 |---|---|---|
-| Project 1 |  |  | 
+| ⛽ [Fuel Economy](https://github.com/MichaelArellanox/Fuel-Economy/tree/main) | Multiple regression, visualizations, predictive analysis, reporting | Used R programming to create a multiple regression model for fuel economy as the dependent variable, and rear axle ratio and horsepower as independent variables | 
 | Project 2 |  |  |  
 | Project 3 |  |  |  
 
