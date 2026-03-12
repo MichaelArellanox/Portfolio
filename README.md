@@ -5,6 +5,7 @@
 ### Table of Content
 1. [SQL](#sql)
 2. [Python](#python)
+3. [R Programming](#r-programming)
 
 ***
 
