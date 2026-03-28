@@ -27,7 +27,7 @@
 
 | Project | Skills Used | Description | 
 |---|---|---|
-| [Mall Customer Segmentation 🛍️](https://github.com/MichaelArellanox/Customer-Segmentation/tree/main) | Exploratoy analysis, visualizations, clustering, univariate analysis, and bivariate analysis |  Analyzed mall customer data set using a univariate and bivariate analysis to identify target customers and groups for market strategies. | 
+| 🛍️ [Mall Customer Segmentation](https://github.com/MichaelArellanox/Customer-Segmentation/tree/main) | Exploratoy analysis, visualizations, clustering, univariate analysis, and bivariate analysis |  Analyzed mall customer data set using a univariate and bivariate analysis to identify target customers and groups for market strategies. | 
 | Project 2 |  |  |  
 | Project 3 |  |  |  
 
