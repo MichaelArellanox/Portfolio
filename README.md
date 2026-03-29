@@ -28,7 +28,7 @@
 | Project | Skills Used | Description | 
 |---|---|---|
 | 🛍️ [Mall Customer Segmentation](https://github.com/MichaelArellanox/Customer-Segmentation/tree/main) | Exploratoy analysis, visualizations, clustering, univariate analysis, and bivariate analysis |  Analyzed mall customer data set using a univariate and bivariate analysis to identify target customers and groups for market strategies. | 
-| Project 2 |  |  |  
+| Loan Approval |  |  |  
 | Project 3 |  |  |  
 
 ***
@@ -43,7 +43,7 @@
 |---|---|---|
 | ⛽ [Fuel Economy](https://github.com/MichaelArellanox/Fuel-Economy/tree/main) | Multiple regression, visualizations, predictive analysis, reporting | Used R programming to create a multiple regression model for fuel economy as the dependent variable, and rear axle ratio and horsepower as independent variables | 
 | 🏚️ [Real Estate](https://github.com/MichaelArellanox/Real-Estate-Analysis) | Second order regression, visualizations, predictive analysis, reporting | Created multiple regression models to predict sale prices for houses based on critical variable factors. Results can help set better prices when listing a home for a client. Setting better prices will ensure that listings can be sold within a reasonable amount of time |  
-| Project 3 |  |  |  
+| MAT 303 Project 2 |  |  |  
 
 ***
 
