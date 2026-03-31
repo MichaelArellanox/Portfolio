@@ -44,6 +44,6 @@
 | ⛽ [Fuel Economy](https://github.com/MichaelArellanox/Fuel-Economy/tree/main) | Multiple regression, visualizations, predictive analysis, reporting | Used R programming to create a multiple regression model for fuel economy as the dependent variable, and rear axle ratio and horsepower as independent variables | 
 | 🏚️ [Real Estate](https://github.com/MichaelArellanox/Real-Estate-Analysis) | Second order regression, visualizations, predictive analysis, reporting | Created multiple regression models to predict sale prices for houses based on critical variable factors. Results can help set better prices when listing a home for a client. Setting better prices will ensure that listings can be sold within a reasonable amount of time |  
 | MAT 303 Project 2 |  |  |  
-
+| Risk Analysis Assignment |   |   |
 ***
 
